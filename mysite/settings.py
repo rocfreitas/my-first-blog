@@ -25,7 +25,7 @@ SECRET_KEY = 'ha@gcu8gs$&by-)hz-79manb=)gl1t!bmy%x#zkr0^2ckx0fk9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rocfreitas.pythonanywhere.com']
 
 
 # Application definition
